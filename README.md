@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
-  
+<div align="left">
 # 💫 About Me:
 🌱 Double-degree student: Systems Engineering + Information Technology, strengthening fundamentals every day.<br>🤝 Open to collaborating on product-focused projects with clear user impact.<br>📚 Currently improving English communication alongside consistent shipping and learning.<br>⚡ Fun fact: I balance two degrees while still making time to build projects.<br>
   
