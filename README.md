@@ -22,19 +22,8 @@
 
 <p align="center">
 <br/>
-  
 ## 🌐 Socials:
-<br />
-  
-<a href="https://t.me/DKzippO">
-  <img align="center" alt="Telegram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/skueletor/">
-  <img align="center" alt="Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://proandroidoficial.com/">
-  <img align="center" alt="Google" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-menacho-ramirez) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DKzippO) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skueletor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skueletor@gmail.com)
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=skueletor&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
